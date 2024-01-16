@@ -1,2 +1,3 @@
 Esto es una prueba de push y pull desde un repositorio de terceros con git!
 Esta segunda lina de texto la estoy agregando desde la rama "rama" 
+Practica git pull
